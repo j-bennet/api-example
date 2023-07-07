@@ -1,2 +1,2 @@
-# worldpop
-Query the WorldPop API https://www.worldpop.org/sdi/introapi/
+# api-example
+Query a free API and present results
